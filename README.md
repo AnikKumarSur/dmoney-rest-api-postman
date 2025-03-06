@@ -17,8 +17,8 @@
 
 ## How to run?
 - Clone this project
-- collect .env from developer and put on the score root folder
-- Hit following command
+- Collect .env from developer and put on the score root folder
+- Hit the following command
   - ``` npm i ```
   - ``` npm test ```
 - Report will be generated into eports folder
